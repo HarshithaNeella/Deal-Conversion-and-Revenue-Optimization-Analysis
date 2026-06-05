@@ -68,14 +68,20 @@ Opportunity-level sales transactions and deal outcomes.
 CRM-Sales-Pipeline-Analysis/
 │
 ├── Data/
+
 │   ├── accounts.csv
+
 │   ├── products.csv
+
 │   ├── sales_pipeline.csv
+
 │   └── sales_teams.csv
 │
 ├── SQL Queries/
+
 │   └── crm_sales_analysis.sql
 │
+
 │
 └── README.md
 
