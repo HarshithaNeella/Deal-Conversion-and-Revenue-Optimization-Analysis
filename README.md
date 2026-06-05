@@ -63,27 +63,6 @@ Opportunity-level sales transactions and deal outcomes.
 9. What is the average deal value for each product?
 10. Which accounts generated more than $1M in revenue?
 
-## Project Structure
-
-CRM-Sales-Pipeline-Analysis/
-│
-├── Data/
-
-│   ├── accounts.csv
-
-│   ├── products.csv
-
-│   ├── sales_pipeline.csv
-
-│   └── sales_teams.csv
-│
-├── SQL Queries/
-
-│   └── crm_sales_analysis.sql
-│
-
-│
-└── README.md
 
 ## Key Insights
 
